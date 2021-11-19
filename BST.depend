@@ -1,0 +1,21 @@
+# depslib dependency file v1.0
+1634795084 source:/home/russellbest/BST/main.cpp
+	<iostream>
+	"BST.h"
+
+1634743974 source:/home/russellbest/BST/Node.cpp
+	"Node.h"
+
+1634743058 /home/russellbest/BST/Node.h
+	<iostream>
+
+1634795227 source:/home/russellbest/BST/BST.cpp
+	"BST.h"
+
+1634794398 /home/russellbest/BST/BST.h
+	"Node.h"
+	<stack>
+	<iostream>
+	<queue>
+	<climits>
+
